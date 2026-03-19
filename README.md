@@ -18,4 +18,4 @@ This project is a Power BI dashboard that analyzes sales performance using key b
 - Analyzed profit trends and growth patterns
 
  Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Screenshot 2026-03-20 014729.png)
